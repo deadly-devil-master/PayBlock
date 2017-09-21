@@ -152,7 +152,7 @@ $uid=$_SESSION['uid'];
 					<canvas id="radar" height="300" width="300" style="width: 300px; height: 300px;"></canvas>
 						<script>
 							var radarChartData = {
-								labels : ["","","","","","","","","","","",""],
+								labels : ["Jan","Feb","March","April","May","June","July","Aug","Sep","Oct","Nov","Dec"],
 								datasets : [
 									{
 										fillColor : "rgba(104, 174, 0, 0.83)",
